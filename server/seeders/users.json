@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Sakata Gintoki",
+        "gender": "Male",
+        "age": 27
+    },
+    {
+        "name": "Thomas Alva Edison",
+        "gender": "Male",
+        "age": 40
+    },
+    {
+        "name": "Ajeng Kusuma",
+        "gender": "Female",
+        "age": 20
+    },
+    {
+        "name": "Erza Scarlett",
+        "gender": "Female",
+        "age": 21
+    },
+    {
+        "name": "James Rodriguez",
+        "gender": "Male",
+        "age": 28
+    }
+]

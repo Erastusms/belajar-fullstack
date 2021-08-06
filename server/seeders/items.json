@@ -1,0 +1,37 @@
+[
+    {
+        "name": "One Piece",
+        "price": 50000,
+        "category": "Comic",
+        "status": "Available",
+        "UserId": 1
+    },
+    {
+        "name": "Earth",
+        "price": 65000,
+        "category": "Novel",
+        "status": "Available",
+        "UserId": 2
+    },
+    {
+        "name": "Moon",
+        "price": 70000,
+        "category": "Novel",
+        "status": "Available",
+        "UserId": 2
+    },
+    {
+        "name": "Steve Jobs",
+        "price": 120000,
+        "category": "Biography",
+        "status": "Available",
+        "UserId": 3
+    },
+    {
+        "name": "Naruto",
+        "price": 50000,
+        "category": "Comic",
+        "status": "Available",
+        "UserId": 1
+    }
+]
